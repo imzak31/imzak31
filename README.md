@@ -19,6 +19,24 @@ I thrive on building **scalable architectures, clean abstractions, and user-focu
 
 ---
 
+## 🏢 Companies I've Worked With  
+
+I’ve had the privilege of contributing to **industry-leading organizations** and scaling impactful platforms:  
+
+- [![AIM Manager](https://img.shields.io/badge/AIM%20Manager-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://aimmanager.com/)  
+  *Led engineering initiatives to modernize and optimize technical debt, architecting a Rails API–NextJS platform and building 24/7 AI-driven chatbots.*  
+
+- [![DebtBook](https://img.shields.io/badge/DebtBook-0A2540?style=for-the-badge&logo=databricks&logoColor=white)](https://www.debtbook.com/)  
+  *Worked on SaaS products for leases, subscriptions, debt management, and risk calculations (FASB/GASB-compliant).*  
+
+- [![Compass](https://img.shields.io/badge/Compass-101820?style=for-the-badge&logo=compass&logoColor=white)](https://www.compass.com/)  
+  *Modernized a Ruby on Rails monolith into Go microservices, implementing event sourcing and streaming pipelines with Kafka.*  
+
+- [![PGA of America](https://img.shields.io/badge/PGA%20of%20America-174A7E?style=for-the-badge&logo=golf&logoColor=white)](https://www.pga.com/)  
+  *Implemented a university/education management system, bridging Postgres CRM with legacy Oracle/Redshift DB systems.*  
+
+---
+
 ## 🛠️ Tech Toolbox  
 
 **Languages & Frameworks**  
