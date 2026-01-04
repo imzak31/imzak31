@@ -10,7 +10,7 @@ I thrive on building **scalable architectures, clean abstractions, and user-focu
 
 ## 💡 About Me  
 
-- 🎓 **Computer Science Engineer (2018)** with solid foundations in **algorithms, systems design, and databases**.  
+- 🎓 **Computer Science Engineer (College dropout)** with solid foundations in **algorithms, systems design, and databases**.  
 - 💼 Hands-on experience across **startups, enterprises, and SaaS products**, wearing hats from backend architect to full-stack engineer.  
 - ⚡ Specialized in **Ruby on Rails, React, TypeScript, and modern web stacks** — while also diving into **Python scripts, GraphQL APIs, and microservices** when projects call for it.  
 - 🌍 International exposure: studied and worked in the **UK and USA**, collaborating with multicultural teams worldwide.  
